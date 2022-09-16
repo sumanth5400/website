@@ -132,3 +132,7 @@ a:hover{
   font-size:0.75rem;
   padding:10px 0;
 }
+.mountain-image{
+  position: relative;
+  right:60px;
+}
